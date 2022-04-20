@@ -1,2 +1,3 @@
 "this is a FileA - version 1" 
 "this is a FileA - version 2" 
+"this is a FileA - version 3"
