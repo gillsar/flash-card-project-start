@@ -1,1 +1,2 @@
 "this is a FileB - edit" 
+"this is a FileB - version 2" 
